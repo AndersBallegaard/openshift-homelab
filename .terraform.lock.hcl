@@ -2,19 +2,25 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.opentofu.org/cloudflare/cloudflare" {
-  version     = "5.16.0"
-  constraints = "~> 5.0"
+  version     = "5.28.0"
+  constraints = ">= 5.0.0"
   hashes = [
-    "h1:iyIjUQIxl6vMTH4zuhMhmmE6RjRNVbBTA/m2LbmF+1U=",
-    "zh:0e21bfc6d4698b7e7d7b39b1635c5e1dac49b9e39e205b38d9d879e31aa63002",
-    "zh:269c80bdf54e34a80e01e742ab2705c56c360cece256348301a69b316e735dca",
-    "zh:32420d3ebf3a18f5d4d259390e4c98f0b31e4d6f703572a0dafaf1af8361bd14",
-    "zh:45c73f16b19161ed2ae2ec6c50041045df23b0a124701973ed7f0297c16bacbe",
-    "zh:5ca4e4dafb12d78afa0ca9150236b0a2e64a3d65045f7347efc9253edef5276d",
-    "zh:636d1456d8d604bace12ebcf4d3b188a971bb98b1891368ae87c86ac6d561c26",
-    "zh:d26e340801292ad44a4fe493a2b254147c48e01303e81630678edf9ef8c06bbb",
-    "zh:ed564f43bd296bf0d8f13aee4bdd5c0e0c3376683911f2b64e1e42891232334f",
-    "zh:f809ab383cca0a5f83072981c64208cbd7fa67e986a86ee02dd2c82333221e32",
+    "h1:3MScc9whgqTm8wB64P4pb4M3zzm8JHylgpnQGSvPjBE=",
+    "h1:BW8S7U601n4f7XW/z2jHln8Fzfq341nIHqi67UxgJ54=",
+    "h1:CdHJMkBNOZa+dyrho1BuYdjgCNaoqaBbSSOqlArqkD0=",
+    "h1:FKhUhCHQVBROfbCAaxBC11bxvfIiBwCS4/9Msx8x54U=",
+    "h1:OG/nf4iUog8i9w6CMSpdJZEyX9Ftip5GjcTGIOELN2M=",
+    "h1:TU/V8MCPOw5OhdVmt0f2KD4Xoggq1qEa5YIZM/FYLkA=",
+    "h1:UWQXlKbGOBVkag/fTRoAcN7TMo11bJCJBAq8GHe8EJ4=",
+    "h1:gk3/7Uu4GHG0EZj+s5MKRAR6il+ZUDkhLg+0TnmJxWU=",
+    "zh:216e03e0dd702f4be29280584290388c7fed0d4beb0a998f3c1229cb74166b7b",
+    "zh:364b099957c7c093491591ecbdc8449f12d13c57d799597563b2b7a5ae9598b9",
+    "zh:5b160e70bbab47785a95c4b9066e4c8e561fefcc4fc40dbdc586940b57bdcc82",
+    "zh:6cd34eee027645eea6db31730bcc8c4d1d031d699ed361589105c65342baeb59",
+    "zh:886714cfd9ada7876dd39ed857661766d9b75ba205079c3b70c4d5b56e9955b8",
+    "zh:9c1893d4da37939a88b6286ae786d1293b160a63230b6dd396067593fd24eeb4",
+    "zh:d56c220ad4aea9cd8775d10cbb788c0450870533f3ccc605efdc254dc7186dd4",
+    "zh:f8e00ec634b0e97adb664d04ea1ceb116e37eaf4b7a7e581f01e3c95ed1eb83c",
   ]
 }
 
